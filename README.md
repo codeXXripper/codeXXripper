@@ -15,7 +15,7 @@
 </div>
 <div id="profile-view" align="center">
 <img src="https://komarev.com/ghpvc/?username=codeXXripper&style=flat-square&color=blue" alt="profilecount"/>
-<img src="https://dribbble.com/shots/4366906-Welcome-to-my-website?utm_source=Clipboard_Shot&utm_campaign=alvaroabrante&utm_content=Welcome%20to%20my%20website!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=alvaroabrante&utm_content=Welcome%20to%20my%20website!&utm_medium=Social_Share" alt="welcome"/>
+
 </div>
 <h1 align="center">
  
@@ -64,5 +64,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codeXXripper&theme=dark&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codeXXripper&theme=dark)]
  
