@@ -62,7 +62,7 @@
 </div>
 
 ---
-
+<!-- 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codeXXripper&theme=dark)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codeXXripper&theme=dark)] -->
  
