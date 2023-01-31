@@ -29,17 +29,17 @@
 
 ---
 
-### :technologist: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+### :technologist: Web Dev , Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
+- 🥷:   Currently learning Vanila JS
 - :seedling: Daily learning new  skills & technologies.
 
-- :zap: In my free time, I solve problems on datastructures and algorithms.
+- :zap: In my free time, I solve problems on data structures and algorithms and contribute to open source projects
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fitsum)https://www.linkedin.com/in/israel-fitsum)
 
-
+- ### Looking for Remote Job opportunities -- contact me  https://www.linkedin.com/in/israel-fitsum
 
 ---
 
