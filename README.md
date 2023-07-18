@@ -32,10 +32,10 @@
 ### :technologist: Web Dev , Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🥷:   Currently learning Vanila JS
+- 🥷:   Currently learning AI Programming with Python
 - :seedling: Daily learning new  skills & technologies.
 
-- :zap: In my free time, I solve problems on data structures and algorithms and contribute to open source projects
+- :zap: In my free time, I solve problems on data structures and algorithms and contribute to open source projects . And also machine learning projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-fitsum)https://www.linkedin.com/in/israel-fitsum)
 
