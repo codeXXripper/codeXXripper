@@ -29,10 +29,10 @@
 
 ---
 
-### :technologist: Web Dev , Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+### :technologist: Data Engineer|Web Dev|Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🥷:   Currently learning AI Programming with Python
+- 🥷:   Currently learning Web Scraping with Python
 - :seedling: Daily learning new  skills & technologies.
 
 - :zap: In my free time, I solve problems on data structures and algorithms and contribute to open source projects . And also machine learning projects.
